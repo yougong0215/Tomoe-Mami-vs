@@ -27,7 +27,7 @@ public class PlayerMove : MonoBehaviour
 
 
 
-        VelocityBind();
+        //VelocityBind();
 
         if(PlayerAttack.shot == true)
         {
@@ -96,25 +96,24 @@ public class PlayerMove : MonoBehaviour
             {
                 if (PlayerManager.Instance.Spi.flipX) // <<
                 {
-                    _rigid.velocity += new Vector3(0.06f, 0, 0);
+                    transform.position += new Vector3(0.0004f, 0, 0);
                 }
                 else // >>
                 {
-                    _rigid.velocity += new Vector3(-0.06f, 0, 0);
+                    transform.position += new Vector3(-0.004f, 0, 0);
                 }
             }
             else
             {
                 if (PlayerManager.Instance.Spi.flipX) // <<
                 {
-                    _rigid.velocity += new Vector3(-1.4f, 0, 0);
+                    transform.position += new Vector3(-0.03f, 0, 0);
                 }
                 else // >>
                 {
-                    _rigid.velocity += new Vector3(1.4f, 0, 0);
+                    transform.position += new Vector3(0.03f, 0, 0);
                 }
             }
-            _rigid.velocity = new Vector3(_rigid.velocity.x, 0, 0);
         }
     }
 
@@ -147,7 +146,7 @@ public class PlayerMove : MonoBehaviour
         if(DoDoged == true)
         {
             _moveGround = Input.GetAxis("Horizontal");
-            _rigid.velocity = new Vector2(_moveGround * 3, _rigid.velocity.y);
+            transform.position += new Vector3(_moveGround * 3, 0,0) * Time.deltaTime;
         }
     }
 
