@@ -1,0 +1,7652 @@
+fileFormatVersion: 2
+guid: 2c1e6d80f88b53e4f8d4cde7ae1b0cbd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TomoeMami 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2806
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bbd1db1f068ca4aa736a6335b81a0a
+      internalID: 428925794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2806
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3674c255f3ca3f48ac92067913e93d1
+      internalID: 1862158523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2804
+        width: 28
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe24f704ee1614d9a9acce36d625d0
+      internalID: 324928774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_3
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2804
+        width: 33
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518fa38e5d6e774a95ac6f383f19d11
+      internalID: -1504246730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2680
+        width: 58
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c77e039f292d1428ed7cc9404f1556
+      internalID: 2056998193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2680
+        width: 54
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08bea62036047d49b7f2869a89824f0
+      internalID: 1555164936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2680
+        width: 55
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f3e70c34401964e86d27764ac30df6
+      internalID: -1397351455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2680
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec4789c6b4b60428e5cc6944665d62
+      internalID: -2067509115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2680
+        width: 61
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe98c7b08479b4e9df9b2c7f561701
+      internalID: 1080986658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2680
+        width: 58
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dfc5e17d0ab8144bf2791ba6ebfe90
+      internalID: 1569959426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2680
+        width: 55
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913bfb3bb1b309243a67e2df55cb48c8
+      internalID: -432222348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2678
+        width: 51
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff141c86ef3079940a9b31ab54e2a937
+      internalID: 1924621232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2681
+        width: 58
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95d4a5a49ccfe4db78c89bf52e3ca1
+      internalID: 1555557853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2681
+        width: 61
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9faf90edb4ecb642845873c1dc0fe6a
+      internalID: 1304289916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2678
+        width: 57
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932bfc6efd2cb7146ba58e79e7be6226
+      internalID: -1618711926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_15
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2678
+        width: 54
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05179cf9c376e4f4c84c612a9a0cde77
+      internalID: -1675901351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_16
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2683
+        width: 51
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70916b49d600b94abddeaf034ebe2f2
+      internalID: -227453386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2681
+        width: 50
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2d76192404b6c48b284d482cadfbf0
+      internalID: -395442256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2678
+        width: 45
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a61b5005d948418ccea8e904cfc33
+      internalID: -228903189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_19
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2687
+        width: 58
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1f1423a8a7fb4a889be66478f6709
+      internalID: -297840282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_20
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2689
+        width: 55
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0f5bd2668f774d81d836f61282382
+      internalID: -1214664014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_21
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 2694
+        width: 44
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3041f467369e7354d86690c88b6a783a
+      internalID: 1684818717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_22
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2702
+        width: 66
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b24e2ee722f37429b15c06247a9e7d
+      internalID: -2138839195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_23
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2713
+        width: 68
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc716fd047f0e449b7ae5de408569a
+      internalID: 1491379208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_24
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2710
+        width: 57
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb64e905c9e1ee843a7903adbcf23c5e
+      internalID: -1701352673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_25
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2703
+        width: 76
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dcd08585d61324380b02ae61df9f86
+      internalID: -1747765731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_26
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2694
+        width: 66
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975977083c48f804591925622d234353
+      internalID: 899268141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_27
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2685
+        width: 56
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797cdcf64e0b0cd449189e360efa5531
+      internalID: 880570059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_28
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2685
+        width: 57
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c7557b23f87a54a8ed700ed61cc751
+      internalID: 458191740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_29
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2685
+        width: 55
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767f4bceec225c49bbd73c8d18f7353
+      internalID: 1302628666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2665
+        width: 28
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84928ea446fabd54ab695863c61c0809
+      internalID: -84050750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2667
+        width: 39
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266eaf44233a46f48bf7839db43ecd34
+      internalID: -1770398437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_32
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2667
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488c618869259b4eba7f9cc5800ca4f
+      internalID: 1487535708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2551
+        width: 58
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11046ff119c2cbe4598f798ec3dcb5e3
+      internalID: -83370871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2564
+        width: 83
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45629b2b85d8a2e4eb21ec0758e206ed
+      internalID: 1656605999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2546
+        width: 79
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145eeed03e74eff4caf9af027c5f7be7
+      internalID: -1857692555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2537
+        width: 54
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816181f1660f884287f2350032553c1
+      internalID: -335042757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_37
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2537
+        width: 55
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956296f04fd42a3468d650a87e77c163
+      internalID: 1253006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_38
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2537
+        width: 65
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa3f18aced8384588a0c3eca571966
+      internalID: -530318122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_39
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2537
+        width: 66
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac488d713d480a4ab1cd54fa4e8c920
+      internalID: 375164697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_40
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2568
+        width: 84
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a5aa200c53c54988be648df08f642
+      internalID: 33508996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_41
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2579
+        width: 88
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6087f709f32a42b075c6a07445ad0
+      internalID: 57025101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_42
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2575
+        width: 88
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1990aaf0b9794696fbdd86acd48e5
+      internalID: -2067403835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_43
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2556
+        width: 63
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77919faeb9fcc24fb8776db386d3185
+      internalID: 1490879069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_44
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2537
+        width: 84
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a86a24386f32d46abb8825b3440a0a
+      internalID: -1381584548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_45
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2537
+        width: 75
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49265d5d4bbebdc46a1b09afbcab69bd
+      internalID: 381690901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_46
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2537
+        width: 62
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f038906518ece74e83710c8d50663b3
+      internalID: -2112463307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_47
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2537
+        width: 86
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e691d1988ef6f84d9b7fabb19101528
+      internalID: 2103762220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_48
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 2537
+        width: 85
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea30b782064a44ea69be3503493e52
+      internalID: 1377020724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_49
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2537
+        width: 82
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fa2a86048350d4fa586dbd36f42a61
+      internalID: 464724750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_50
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2537
+        width: 83
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebbc7a9fc6fba4f99d0257e4927269
+      internalID: -95901756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_51
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 2537
+        width: 93
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb43897f692a94dbba216a9e039f60
+      internalID: -1007266692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_52
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 2537
+        width: 75
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc33420b81a91047a1ac5045ed26566
+      internalID: -2093309568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_53
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 2537
+        width: 75
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193f41cf56641048aacd774f90dba42
+      internalID: 1064072048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_54
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2537
+        width: 66
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481cd78cdd1b5f48aadb2fd8d6c28c7
+      internalID: -73845384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_55
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2537
+        width: 55
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a382fe62c4f514eb1973375d3ca868
+      internalID: 1725467116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_56
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 2601
+        width: 72
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b655659262d7a47b8b84250669de4b
+      internalID: -1264570834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2933ee1f8a88d439115ab6a14e2af6
+      internalID: 1191797456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2524
+        width: 45
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4fd7dd830c5f64c9fd785038fbc8d5
+      internalID: -129665745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2390
+        width: 58
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac4ef705126ad4ab565a048dda0595
+      internalID: 770175802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2390
+        width: 76
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b73b4c183e96544a9e5ac5a3abee3f3
+      internalID: 266594300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2390
+        width: 69
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf90346679d5ed6468cc32059f715d5a
+      internalID: 1395240892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2390
+        width: 66
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5be289da844454eb4a90239585b28b
+      internalID: 214172937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_63
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2390
+        width: 114
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d2945f4c0a36448a4ca77850c59da
+      internalID: 323934032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_64
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2390
+        width: 107
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57614727a9f809340823fb28ede68517
+      internalID: -1874331011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_65
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2390
+        width: 103
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82422a596a0812e4d8fe739d684166fc
+      internalID: -397192807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_66
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2390
+        width: 77
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42500c3673ba1a8449594b1d060f5014
+      internalID: 16485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_67
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2390
+        width: 72
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abdbb37b93fa2142a8387a40e0af0ea
+      internalID: -764134323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_68
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2390
+        width: 79
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ea92feae01ab4fb0702d73019f816
+      internalID: -1801155964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_69
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2390
+        width: 77
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d22cf0e4835ec40b3b3be0c03e4f12
+      internalID: 1974090247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_70
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2390
+        width: 66
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293749397149e242acd8008e597b93c
+      internalID: 1611737350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_71
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 2390
+        width: 124
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e8341b0ea460941a4ac189f413c556
+      internalID: 2020509622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_72
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2390
+        width: 117
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca093a2406eb4488f5ed0802492ee4
+      internalID: -1806678423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_73
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2390
+        width: 113
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e2aae80d4a1044281309e49d822076
+      internalID: 1224078038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_74
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2390
+        width: 71
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b7ec0795bbd440b61b3f3bec50464
+      internalID: -241266657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_75
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2390
+        width: 70
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202c0bd2e93a5b4db79b5ae79308e14
+      internalID: -1887147334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_76
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 2390
+        width: 64
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f0fd30167388f468526092c3b25d79
+      internalID: 651442636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2347
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0886f9f8be15844ca81da5d6c6dd390
+      internalID: -755492608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2351
+        width: 13
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8019264816b57498a997c190a167b6
+      internalID: 292529370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_79
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2357
+        width: 9
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaacb0a6a7bf2744bb6cb8420aa03008
+      internalID: 1959843963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2358
+        width: 10
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6f563999db0d478ae60fb17534ab6
+      internalID: 978088369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2353
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfb9b8a6692ab439121dc131fcd50c
+      internalID: -321229316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2347
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284854917a50b924da568591c2028743
+      internalID: 103606152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_83
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2329
+        width: 16
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8611ffd51e2abac4a83ae2b1f33636ea
+      internalID: -156159828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2332
+        width: 12
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12bd1b51ab81e746817b913807ec36c
+      internalID: 1354900817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_85
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2335
+        width: 8
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b32cdf9a5dfa443aa0173ba83d316c
+      internalID: 1076810856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2335
+        width: 11
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a997d42f5a0c940963902f30fd5be7
+      internalID: 1356447542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2329
+        width: 15
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85aae754b4782440b75e10934984722
+      internalID: 977731702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_88
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2322
+        width: 17
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24afee8e3ba4797438f1ea690da3b0fb
+      internalID: 1975409934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2304
+        width: 18
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573b62c536940764399e99f9b1ac919b
+      internalID: 1980049086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2310
+        width: 14
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3823b2b654fcff247b49d40586c46e6f
+      internalID: -1894081535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_91
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2313
+        width: 8
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b127d6eeecfe19458ff38c68d3338f7
+      internalID: 993880197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2313
+        width: 11
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd38376bec1392a439cf0167a008dde9
+      internalID: 501442655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2309
+        width: 17
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a39ec94ff1a5459d833dd3dfababc
+      internalID: 849407784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2303
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a3392da97a5e46bae7d4f82f79107
+      internalID: -1208752008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_95
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2299
+        width: 20
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26487e998304bd44e886a7eedad1d939
+      internalID: -1358617367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_96
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2304
+        width: 14
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15334a68ab4eb2e41a0c06cebcb2c5a3
+      internalID: -1284856359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_97
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2309
+        width: 8
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273118e25bb75d142aa9cd7ab469233a
+      internalID: -1699558954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_98
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2309
+        width: 11
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce82d9aac25c95448fa6095e2f13dc5
+      internalID: -81935929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2304
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caef44414e573504ba3037a975af9087
+      internalID: -1186499744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_100
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2298
+        width: 20
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a601a22ecabe24bba50c44a13e186c
+      internalID: -943073439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2295
+        width: 16
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abea262007a40498144527748a6dec
+      internalID: 609042585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_102
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2300
+        width: 14
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576a2b8eb2fc534086b36cbc4eb7ff3
+      internalID: 1737960492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_103
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2304
+        width: 9
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0678d2012dee48ba3c4dec1b20038
+      internalID: 120758076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_104
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2304
+        width: 10
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2872ee07af902469ca264e083d8e39
+      internalID: 1717892330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_105
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2300
+        width: 17
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe132a10aa3d76743a300a279bcce360
+      internalID: 101227495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2295
+        width: 18
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f552eb4a906042afcaf5321b73f85
+      internalID: -497741154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_107
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2300
+        width: 13
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5aa72f3a7be0a47846386a2b7215a2
+      internalID: -1245925217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_108
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2304
+        width: 9
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e295f0892cc0004ab9baaa69782de58
+      internalID: -1007844987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_109
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2304
+        width: 10
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b8d24f4d270443ba38812bcf1c18d
+      internalID: -2102678312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_110
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2300
+        width: 16
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318806d4465f904f9eaddb7323cf221
+      internalID: -1243148940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_111
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2295
+        width: 16
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad13aa0b15ed834a9de30c69a08becb
+      internalID: 584248922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_112
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2300
+        width: 14
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c2957290e5e14abc19619cd7eacf7
+      internalID: 846675862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_113
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2304
+        width: 8
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a4e407a00eb404eb221ffc19a0a90e
+      internalID: 1570918992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_114
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2304
+        width: 9
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe96f202bbca547b0c2d664764a379
+      internalID: 1691544642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_115
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2300
+        width: 16
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d511c6efacf14297a5c500c58ed50
+      internalID: -1921446654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_116
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2304
+        width: 8
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ea02117d44974982d7544f9fe630d
+      internalID: -913209554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_117
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2304
+        width: 11
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d9c65595b1ac24787042ccc902b41c
+      internalID: -1177945023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_118
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2300
+        width: 17
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91c56678937bf40aeecd326d1146f2
+      internalID: 547972973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_119
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2304
+        width: 8
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a6350afa83b740a02e67a381a851c
+      internalID: 460242574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_120
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2304
+        width: 11
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a0025ee311e141b9877cde91cbf86
+      internalID: -1697035119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_121
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2304
+        width: 10
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7672e2966d218c4a8883634a6f5f4f0
+      internalID: 1066788200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2287
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45185a683d656d4ebf8c74fdc9bece3
+      internalID: 1003620689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_123
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2284
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418e6bbe5d6e274d93091c28ec8bc97
+      internalID: -21871107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2157
+        width: 84
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a712bedb4af34b929457310f09596
+      internalID: -1702050265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_125
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2157
+        width: 74
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27da4b032829b4597962a6ea989d69
+      internalID: 1176328878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_126
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2157
+        width: 61
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb44b064919dad4c89ce8bae178b91a
+      internalID: -491390743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_127
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2156
+        width: 85
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98250acfdb8d3946a4735abe6823a0b
+      internalID: 860497792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2153
+        width: 85
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0ac8372ca4cce43b93a3881d06ba6b
+      internalID: -454560876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_129
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2155
+        width: 82
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f0e742e9074354b86881a9fccce69d
+      internalID: -1299628552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_130
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2155
+        width: 83
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f65db4ca990146bac576685fe2153
+      internalID: 1530996154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_131
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2156
+        width: 94
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574240c39d2e3a4fb676e31ed70d7c8
+      internalID: -1810478287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_132
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2155
+        width: 77
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9799ba60425028c4c96c1f206db24039
+      internalID: -1344714741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_133
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2155
+        width: 73
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50122f5e6784a149a2812f25b81c082
+      internalID: -637070316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_134
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2155
+        width: 66
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee91735457b5d409fa00164fe407e3
+      internalID: -1225983453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_135
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2156
+        width: 55
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69279d8c2c953b49ac5fd3e4d846947
+      internalID: 402757169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2144
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e993361923ba9fb4e946cb0204765f74
+      internalID: -116700750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2142
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd46c6288d45e4d91f180b4af756eb
+      internalID: -1007550084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_138
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2142
+        width: 41
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61fcbac71a6a340bf03e2ba0945666
+      internalID: 703400975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_139
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1996
+        width: 75
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8b8c6e2ab23e439e87abccf39e7d7
+      internalID: -1594663003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_140
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2001
+        width: 70
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6371fbd29575ef48b051dd5f15052c6
+      internalID: -1706138076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1998
+        width: 62
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813ebeaedecd204c8ae299806a711a7
+      internalID: 1997340839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_142
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1996
+        width: 113
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccac278e473fe746bad982759773dd9
+      internalID: 1188327086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_143
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1998
+        width: 108
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960dc1d19c62ac94588012922b77a3a8
+      internalID: -804219929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1998
+        width: 103
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41607ec69731e948879c94980841343
+      internalID: -1419174345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_145
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1998
+        width: 67
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4087c70b6f4144fb73c7524b047206
+      internalID: 1591618896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_146
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1996
+        width: 64
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490339b8de6f11b42bfff64605ea98be
+      internalID: 100766699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_147
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1996
+        width: 79
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6b82c91ab53343af3434e092279b8
+      internalID: -1238548713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_148
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1998
+        width: 78
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375bd1eb8ce836458d50cbc51b0b5c4
+      internalID: -2015246316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_149
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1998
+        width: 66
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e73ae44f55a84a850635d225a58d1
+      internalID: -268131459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_150
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1996
+        width: 125
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a78ea76cb2b2c4faf9b387fdc621d8
+      internalID: -1835891296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_151
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1998
+        width: 116
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821ca8d5455a1c418c338c752ea1823
+      internalID: -2147421445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_152
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1998
+        width: 113
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8019bbc088004ab5b5a66e9900f72
+      internalID: -572079467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_153
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2001
+        width: 69
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55f7ca575ce0f428c1c18d712bdea8
+      internalID: 908808380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_154
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1998
+        width: 66
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06e6693ec8d96409659088485432f3
+      internalID: -2140937648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_155
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1998
+        width: 63
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a822baa35192e943b9fe9bb1f19cbae
+      internalID: 35921631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_156
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1998
+        width: 55
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b648772f07fef4d9ce3bb58acc1560
+      internalID: 1804318304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_157
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1948
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680082cf25112445950f198c68c263f
+      internalID: -247634477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_158
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1952
+        width: 13
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673dc10e1e6a24f4682143d9f41ba52e
+      internalID: -1439678114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_159
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1959
+        width: 9
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3e800a4295704f90e0f56600b5af8
+      internalID: 2133500245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1959
+        width: 10
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3122cf96c1c8842802a50bf82eb30c
+      internalID: 1975224488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_161
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1954
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043363802333d234cb6d9867870babea
+      internalID: -1916961402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_162
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1948
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69b6088fbebfb4fa21dd7c59c4baaa
+      internalID: 1568152165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_163
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1930
+        width: 16
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e325601208ea1c4c939a51a532ac4e0
+      internalID: -1822676602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1935
+        width: 12
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad5b08256dd4884b8255a2dc1e78da5
+      internalID: 1589153751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_165
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1937
+        width: 8
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e2d69979fc6848a3b59c24122aaa6
+      internalID: 124642266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1937
+        width: 11
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307406a043614a4cae4429e760d8b13
+      internalID: -1747703453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1930
+        width: 15
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba39136c51d7a4a4c8c369023066e67c
+      internalID: -2127814811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_168
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1924
+        width: 17
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40406e39630d5b94bb5c4454d06fb0c5
+      internalID: 1992454048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_169
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1906
+        width: 18
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3c89681bee634db8f506fc0674298
+      internalID: -1685350699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_170
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1913
+        width: 14
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4dfcd4817c9cd4a96d05f1672312bf
+      internalID: 1782526422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_171
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1915
+        width: 8
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f74e979e5319049aec2c07e298de39
+      internalID: 1766182574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_172
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1915
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83206b6e81bb0040be5ef838179a15a
+      internalID: -336615414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_173
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1911
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b804e0a1fb2fb488631c4e9dd4a703
+      internalID: -2092814409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_174
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1904
+        width: 17
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e87e0013044744d92594ad18f96bc3
+      internalID: -1983610008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_175
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1902
+        width: 20
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfdfb5470433ce4f8aa371af569a8a8
+      internalID: 502730713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_176
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1907
+        width: 14
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2dee2ff5c92645ac8ca2e01c3850b
+      internalID: -586308870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_177
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1910
+        width: 8
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113bc081b66e7f346b49fdd2fa33f71b
+      internalID: 1664523719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_178
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1910
+        width: 11
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2baeaba83e6914fb6b5a860c7a468f
+      internalID: -1738579463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_179
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1906
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b90073795e61c4c985f5f9a580d96a
+      internalID: -1295554235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_180
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1900
+        width: 20
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c49b5a3f971144684215f4cff875bd
+      internalID: -991750659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_181
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1897
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfabb304159820458d901b3e8347d38
+      internalID: 310832492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_182
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1904
+        width: 14
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f61553cf2c76479d616d243b6ff56
+      internalID: 162269977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_183
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1907
+        width: 9
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24044162cc2cfe147ae26ec2be707f9e
+      internalID: 756024718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_184
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1907
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2dbb0dbc64bd4dbee20f2f7ab0a39
+      internalID: 1538326573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_185
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1903
+        width: 18
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e73946cb29194cb56cb23681bffd0
+      internalID: 2048668898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_186
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1897
+        width: 18
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0af44481980114f95ae487520bdf15
+      internalID: 1798011526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_187
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1904
+        width: 13
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59de2c60ca5074ea0573835c9cddfa
+      internalID: -212040585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_188
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1907
+        width: 9
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a56caf2feda044da5ce973531adbe8
+      internalID: 74554584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_189
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1907
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba99f6fe62fe0541a2fccb8e57b2747
+      internalID: -635176283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_190
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1903
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f7bc3f111e0144adffe6a10ae6b7b
+      internalID: -1414571038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_191
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1897
+        width: 18
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2fd5e325bb8b2408fb16bdc5f240ad
+      internalID: 1748286762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_192
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1904
+        width: 16
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e300239471ce21c4b8f283ec2012c494
+      internalID: -1949728772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_193
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1907
+        width: 8
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06c4516c4304848bb0e5b2794da2fd
+      internalID: -2056304919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_194
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1907
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2a32abcd33b404ab46d6c2b6948313
+      internalID: -1583650407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_195
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1903
+        width: 18
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd555d95336688e4392f246738c23a48
+      internalID: -51359394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_196
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1907
+        width: 8
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df391ceacb09643ab8a17f4eec7039
+      internalID: 1246455752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_197
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1907
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8d167017f58443ad062e2e312ff0b
+      internalID: 698310346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_198
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1903
+        width: 17
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efece201fd10ca4e849709cca5a2a19
+      internalID: 1013003797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_199
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1907
+        width: 8
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b18d3770aec2468680f002e0bfb03
+      internalID: -728845693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_200
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1907
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec7cd46f315c847bec035671180f91
+      internalID: 2006294723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_201
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1907
+        width: 11
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b31cf66101f440aa81e8fac173ab4
+      internalID: 218150388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfde5003b1da06408f3f5ab752e5b8b
+      internalID: -1302809536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_203
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1886
+        width: 37
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716be2b19375b12408755b8f902df442
+      internalID: -1783519253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_204
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1814
+        width: 364
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648563e545f8e34f8b0a2462aee554f
+      internalID: 1767408491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_205
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1776
+        width: 45
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3896f1b53dd68742b80ec9feffdebf8
+      internalID: -167030606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_206
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1782
+        width: 55
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6835d17c906d4d88f9ba4ec1a52ec
+      internalID: -1083265373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_207
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1787
+        width: 55
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38450b922cba3c428bc4a8bc9242b1d
+      internalID: 1460545910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_208
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1765
+        width: 64
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524cd1ba00ceac846ac1714acab926ef
+      internalID: 1720661603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_209
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1765
+        width: 65
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a30f37c0864441b80124b15dbe353
+      internalID: -1983960868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_210
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1765
+        width: 60
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfa3ace90fbaaf4cb9c1b11e8b52449
+      internalID: 1499910134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_211
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1760
+        width: 60
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263867bec8cefd4f815628dcfb861e9
+      internalID: 1017897400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_212
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1765
+        width: 58
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5cc5b38c101b34095664348ef587d7
+      internalID: 713233828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_213
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1770
+        width: 55
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82cae67d4400f74a893c2d8f4efad86
+      internalID: -1649631516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_214
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1772
+        width: 44
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc704a6d25aa6794995190447ccd4c90
+      internalID: 60168425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_215
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1782
+        width: 66
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d262b00dc7a1614db5d97cb526b1f8d
+      internalID: -1224734575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_216
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1770
+        width: 77
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eee03dfccf72d4b8dee09c3041025d
+      internalID: 1758367266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_217
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1767
+        width: 63
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be4e1a0987b9a4ba52e52d177b1b49
+      internalID: 1998446155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_218
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1765
+        width: 69
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7e90cf7ae26340927ed89fbc0a0cf
+      internalID: -273570020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_219
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1761
+        width: 60
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6185f9097a69642b39bfd0a5a5a17f
+      internalID: 390859653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_220
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1761
+        width: 56
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deae136a19b6c647bd749646b9f58d8
+      internalID: -989619510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_221
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1761
+        width: 75
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b8aa74004d38448a15b0acf361c04
+      internalID: 252375593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_222
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1754
+        width: 64
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff1d669a2dc9f6418ebaf9883507ba1
+      internalID: -1203412005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_223
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1760
+        width: 61
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9841c20663a2408a724599c5a5583
+      internalID: 1920910208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_224
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1764
+        width: 55
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df1e02f7cde3647ae79a3483ec9d17
+      internalID: -167084120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_227
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1621
+        width: 80
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca314fd4ff8f44b945db69872e64dc
+      internalID: -1527738924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_228
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1621
+        width: 181
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f001db6f91bd4c9381765b4fb51c6
+      internalID: -1153346883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_229
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1640
+        width: 214
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa12869f3fee4429638b15c0b20116
+      internalID: 835717431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_230
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1649
+        width: 184
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579f3a650a44974a81cd4c5b79a06cf
+      internalID: 1981798541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_231
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1639
+        width: 172
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376963164b37639489ff5e2cb2a51e72
+      internalID: -1566100296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_232
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1631
+        width: 160
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8fa62c39e6eec47a5cad677df779ce
+      internalID: 2139635438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_233
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1621
+        width: 154
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99c008a98a2af4fa0bdf46cde14f33
+      internalID: 1114882134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_234
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1621
+        width: 163
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c3aef4cfd94c24b8e6c336f8eb065d
+      internalID: 1726073176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_235
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1621
+        width: 164
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc51635f92f63cd4c8c0301994785f65
+      internalID: -2079986529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_236
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1621
+        width: 165
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4f4f3aca931934caf3df4587541adc
+      internalID: -1306470093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_237
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1622
+        width: 69
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f6bfe4c1f61e4a943848b6156bb60
+      internalID: -38987242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_238
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1621
+        width: 64
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898ca362c94be14389ba0911675a12c
+      internalID: -1023887156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_242
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1470
+        width: 80
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265cb2f85d8a3d44b7e056402003f9c
+      internalID: 976228334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_243
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1470
+        width: 181
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718bc8067fbd1249aee4bbce4fc2768
+      internalID: -1709869186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_244
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1490
+        width: 214
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd5c1986b656304582b2f0786f2e660
+      internalID: 928760224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_245
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1500
+        width: 184
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dd45fbd4a9e8240992cf6adf5cf87c
+      internalID: 1009854761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_246
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1470
+        width: 79
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee4f877d6831640b9f389694ae586c
+      internalID: 897636826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_247
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1470
+        width: 178
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a37327b97ae8f4491227af328101a0
+      internalID: -1989499567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_248
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1471
+        width: 154
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e014a1a5e7c7545be31c813a5b1d37
+      internalID: -1799651895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_249
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1470
+        width: 163
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dcf5eed49b3e040aced8804374e33e
+      internalID: 1290215055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_250
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1470
+        width: 164
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61286daa5a2e26e43b4c33b6d08efb7b
+      internalID: 560551121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_251
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1470
+        width: 165
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151bc734be6a72247a5d0dc636898aa6
+      internalID: -971453082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_252
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1471
+        width: 69
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f36232fca9a042887c912b0fef675
+      internalID: -147715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_253
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1473
+        width: 64
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb7f29ee3e7a5439e590af14b54d15
+      internalID: -461251565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_254
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 17
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1990f2d9b89a74c8528c76090f4016
+      internalID: -614372728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_255
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1316
+        width: 63
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392b04455abf6941a1e1105ef6c9459
+      internalID: 1125115444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_256
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1316
+        width: 63
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f102d393d5ac4095f16e110eb2320
+      internalID: 1715371472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_257
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1317
+        width: 104
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f72795620b62744693ae0a325d94e7b
+      internalID: -662337061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_258
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1320
+        width: 108
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf70b973794cd247b543ec3e8e6f3dc
+      internalID: 1635948078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_259
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1319
+        width: 85
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81272e6521ce3d468061c6114120ea7
+      internalID: -1120018795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_260
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1319
+        width: 113
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9b3f40d910cb4ca78e0c84006236f
+      internalID: -5998213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_261
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1320
+        width: 90
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2321d1f847aaf4d8981a2d598935b7
+      internalID: 659265827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_262
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1316
+        width: 170
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4ccd67438c0a4aa2fc9796a79fb90
+      internalID: -1991034185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_263
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1316
+        width: 169
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa412b7eca8184c42ae01cfffe6d6cee
+      internalID: -496930837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_264
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1316
+        width: 169
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36129e2a345d9484b95a752168ed18e6
+      internalID: 730893733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_265
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1316
+        width: 60
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdba7c12c4b5d48a7a8e1410b9d112
+      internalID: 271673751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_266
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1316
+        width: 64
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3929c945ae12ed4459b20652788e8d04
+      internalID: 453453563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_267
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1316
+        width: 58
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a3285aa8a7144da88c98822722b98
+      internalID: -726379640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_268
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1305
+        width: 17
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103db8be4296b434990507fa73094dd7
+      internalID: -956293077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_269
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1303
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547cea7ebf7793741823a9c709a03da6
+      internalID: 1648661383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_270
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1155
+        width: 63
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c670e082491571646851821c1b3f27ab
+      internalID: -436407225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_271
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1155
+        width: 63
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c1cd2cc52946479ef1971417360fa
+      internalID: -1139843213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_272
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1156
+        width: 104
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b27f3c98a1e44fad9071fdc7b8fe3
+      internalID: 1173916251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_273
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1159
+        width: 108
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b2f6c1f9438e4387400e9e15efadc
+      internalID: 1312353507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_274
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1156
+        width: 85
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1cad717df1d124b962faf550253115
+      internalID: 1156770441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_275
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1158
+        width: 113
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb22a750f0cedb46ab6ec1b4af3e1e4
+      internalID: -209855241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_276
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1159
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e2efd56ed2a14d9b1dd667ed43f39
+      internalID: 1049074782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_277
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1167
+        width: 170
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c56623b665e349b8d791387571411
+      internalID: -2007157675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_278
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1167
+        width: 169
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b17517b1d1ee74983f7b3bbcd9225b
+      internalID: 936317913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_279
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1167
+        width: 169
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2853781b0a7094689c3c0c023a04b8
+      internalID: -1594489161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_280
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1167
+        width: 55
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96554b8100caa0948a3e49ac0b205527
+      internalID: -246584683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_281
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1169
+        width: 64
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a791b6d04ff3419676125481ca6d3
+      internalID: 1337972589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_282
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1169
+        width: 58
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b2650f06150994f8c4c765724ae304
+      internalID: -1089138631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_283
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05a4516dc88264b9831c98d293b612
+      internalID: 151806220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_284
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1145
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ee1393a363ab428936eb383502381
+      internalID: 199174737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_285
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1145
+        width: 22
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4661240c75637429621f2246ce2f34
+      internalID: 2055788411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_286
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1145
+        width: 28
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc18d6bdc2489d143ae119e6d2cbfacb
+      internalID: -1698342035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_287
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1026
+        width: 73
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03d1eb1c4290f346a3a890b69864259
+      internalID: 1202113613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_288
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1024
+        width: 66
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c9bdf126484d47a677b8be882ee35
+      internalID: 1021555440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_289
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1024
+        width: 60
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9185dc72447bbc4f8c2d204a964dedb
+      internalID: 1102026655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_290
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1022
+        width: 63
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fd4e744dec49a4191388447c39a303
+      internalID: -92259778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_291
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1022
+        width: 59
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b530b9ecc1ed7c46b8a54207a736708
+      internalID: 454837973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_292
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1020
+        width: 61
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b6087402b5260428e4bd6896da9eb1
+      internalID: 169967469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_293
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1022
+        width: 78
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b2854a412df6e4583e9547a8c6d9b3
+      internalID: 1364259123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_294
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1020
+        width: 83
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bf52650ac584d428508129be616055
+      internalID: 448859283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_295
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1020
+        width: 94
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1074c32a02113dc47bbb0df5aec98739
+      internalID: -1510530292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_296
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1020
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3726fbf60bd674409ea731774a331ee
+      internalID: -1491678429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_297
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1019
+        width: 67
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8d06764b750641b3638c7cdbf0d7b
+      internalID: 1387474333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_298
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1033
+        width: 87
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9337d83290a904f93c71761c6a45ca
+      internalID: 1244142903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_299
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1037
+        width: 116
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca5bb598ee521429f3dd7e92a79905
+      internalID: -1465985201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_300
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1026
+        width: 117
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee84fe0014fe34299cf9223eb67b59
+      internalID: -789735889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_301
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1022
+        width: 117
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe799952d4aa149b1121e069810fbb
+      internalID: -598508818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_302
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1017
+        width: 117
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817390bcbdca1ab48b2db68db70c9dfc
+      internalID: -1968099768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_303
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1016
+        width: 117
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5edf5832d870048a4fc6883e662134
+      internalID: -1134557191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_304
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1015
+        width: 119
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99727dee1f9e8664288e73c67d79d795
+      internalID: 1000262329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_305
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1056
+        width: 42
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12484c7b7a982458cc2bb2313ff354
+      internalID: 2015624986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_306
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1031
+        width: 44
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef05430982a544f4591be371c657dec0
+      internalID: -908689813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_307
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 26
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b1c9e320ab15442a017c7f3daa8a12
+      internalID: -638171030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_308
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 940
+        width: 57
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066972336463c924da6573b30911b137
+      internalID: -1791384329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_309
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 940
+        width: 58
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3834c99200a24495f0cdc7e36aae2
+      internalID: -717100556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_310
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 940
+        width: 58
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc34dde2ec1ffc49a6c145b67297657
+      internalID: 299392602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_311
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 940
+        width: 57
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe602d2f8c8854da4ae6f58da79eac
+      internalID: 1181127035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_312
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 940
+        width: 56
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921474af19e395a43bc4904296501db9
+      internalID: 1764096050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_313
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 2452
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd43e9ad76f9c47802f366b2c4f9a9
+      internalID: 2143352160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_314
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 891
+        width: 74
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bf70cdc5ee3d4db37c5f3931b22d4
+      internalID: -502486889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_315
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 891
+        width: 82
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bba55c90dac9b4dab645c3c7e3e102
+      internalID: -736027290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_316
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 892
+        width: 87
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99999611fce844389a14e81aae62d8
+      internalID: -1048229293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_317
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 892
+        width: 83
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cca0605a568224b997c15e2edf003f
+      internalID: 332342218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_318
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 892
+        width: 94
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94613cbbc496aa438f18f5733713787
+      internalID: -213697560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_319
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 896
+        width: 117
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561876736d808ba4b9f1998219d4261c
+      internalID: 1216284481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_320
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 890
+        width: 117
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088186829eb9ff84ab4d4fc4f6fb3d50
+      internalID: 1611819084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_321
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 75
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d24c8e247f2e7b499341615f63fac00
+      internalID: -830743621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_322
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 199
+        width: 131
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39785bd1a43d934c9b816025e7e4685
+      internalID: 151573118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_323
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 172
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406c3a4fce45c8458f8f71bf20422e0
+      internalID: -302285832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_324
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 264
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e309358ba6ee4c9c14293d93f5d0b
+      internalID: 138655414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_325
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 221
+        width: 122
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30be4b2f69176c47a8da6f48cbb0405
+      internalID: -1411429234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_326
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 224
+        width: 118
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f7e56ef06bdba46aefe03825fefee7
+      internalID: -152444790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_327
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 188
+        width: 119
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36ed8b93912e34e88076a0b85ebd1c
+      internalID: 1197454334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_328
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 186
+        width: 111
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f7a68b902dfb4382c2b2f12f1e1a7
+      internalID: 173093716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_329
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 184
+        width: 157
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555eb3379fa39c942b8aa49496ef1ee3
+      internalID: -1067130341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_330
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 181
+        width: 312
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a240caa74eaa2d4ea3b3d30d1e469d8
+      internalID: 671131732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_331
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 203
+        width: 309
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a12f96f06118646aa162bfc296a765
+      internalID: 1210609674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_332
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 257
+        width: 304
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0923e50a6f6d0214cbd564fee6e7b550
+      internalID: 1986553028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_333
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 120
+        width: 366
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd985f01ff9968418096b59e5b42732
+      internalID: 866888693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_334
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 91
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b96196f0dd1de4fa1879953f953295
+      internalID: 1407423223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_335
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 77
+        width: 128
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c4f418e21a434e88b0668dbb2dbbe
+      internalID: 500125905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_336
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 88
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6c43e847564249ba0485a8b8982d9
+      internalID: -406661405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_337
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 99
+        width: 73
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a781f982b2bb46ad3552ace2ba6bc
+      internalID: -1939624430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_338
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 103
+        width: 81
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38045e24d4509024d9b383afc9326f73
+      internalID: 2045762543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_339
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 100
+        width: 87
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e6ed0f73d61247934f9b55ab6be11
+      internalID: 1804431784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_340
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 59
+        width: 52
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e5c83a6f6cf6e45a7d24a00e293a37
+      internalID: 1106443554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_341
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1
+        width: 108
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93092ac06fb444fa9ce4ae794a7435
+      internalID: 513334162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_342
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 16
+        width: 83
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06366634d6b251e4c84db075fb39c0a0
+      internalID: 1597287646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_343
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 36
+        width: 101
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b5ee990bf761c4e8d51d36b8c64f80
+      internalID: 719878443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_344
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 54
+        width: 77
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbbb9ed937293240bb8f70227a96571
+      internalID: -469736664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_345
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 84
+        width: 116
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e4db6bdba8ef43870da6374a64b7c
+      internalID: -708684187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomoeMami 1_346
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 0
+        width: 230
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ae0238b3ebd24e8946ce1f3f2cab8
+      internalID: 1447680709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TomoeMami 1_200: 2006294723
+      TomoeMami 1_249: 1290215055
+      TomoeMami 1_209: -1983960868
+      TomoeMami 1_136: -116700750
+      TomoeMami 1_317: 332342218
+      TomoeMami 1_339: 1804431784
+      TomoeMami 1_340: 1106443554
+      TomoeMami 1_141: 1997340839
+      TomoeMami 1_323: -302285832
+      TomoeMami 1_47: 2103762220
+      TomoeMami 1_111: 584248922
+      TomoeMami 1_173: -2092814409
+      TomoeMami 1_94: -1208752008
+      TomoeMami 1_247: -1989499567
+      TomoeMami 1_344: -469736664
+      TomoeMami 1_153: 908808380
+      TomoeMami 1_270: -436407225
+      TomoeMami 1_332: 1986553028
+      TomoeMami 1_295: -1510530292
+      TomoeMami 1_90: -1894081535
+      TomoeMami 1_215: -1224734575
+      TomoeMami 1_257: -662337061
+      TomoeMami 1_232: 2139635438
+      TomoeMami 1_242: 976228334
+      TomoeMami 1_103: 120758076
+      TomoeMami 1_268: -956293077
+      TomoeMami 1_15: -1675901351
+      TomoeMami 1_273: 1312353507
+      TomoeMami 1_113: 1570918992
+      TomoeMami 1_127: 860497792
+      TomoeMami 1_199: -728845693
+      TomoeMami 1_57: 1191797456
+      TomoeMami 1_292: 169967469
+      TomoeMami 1_100: -943073439
+      TomoeMami 1_245: 1009854761
+      TomoeMami 1_260: -5998213
+      TomoeMami 1_10: -432222348
+      TomoeMami 1_221: 252375593
+      TomoeMami 1_202: -1302809536
+      TomoeMami 1_230: 1981798541
+      TomoeMami 1_297: 1387474333
+      TomoeMami 1_163: -1822676602
+      TomoeMami 1_175: 502730713
+      TomoeMami 1_8: 1080986658
+      TomoeMami 1_310: 299392602
+      TomoeMami 1_38: -530318122
+      TomoeMami 1_109: -2102678312
+      TomoeMami 1_274: 1156770441
+      TomoeMami 1_327: 1197454334
+      TomoeMami 1_86: 1356447542
+      TomoeMami 1_71: 2020509622
+      TomoeMami 1_182: 162269977
+      TomoeMami 1_264: 730893733
+      TomoeMami 1_248: -1799651895
+      TomoeMami 1_154: -2140937648
+      TomoeMami 1_120: -1697035119
+      TomoeMami 1_44: -1381584548
+      TomoeMami 1_255: 1125115444
+      TomoeMami 1_28: 458191740
+      TomoeMami 1_66: 16485783
+      TomoeMami 1_106: -497741154
+      TomoeMami 1_243: -1709869186
+      TomoeMami 1_226: -777682802
+      TomoeMami 1_192: -1949728772
+      TomoeMami 1_89: 1980049086
+      TomoeMami 1_107: -1245925217
+      TomoeMami 1_204: 1767408491
+      TomoeMami 1_236: -1306470093
+      TomoeMami 1_13: 1304289916
+      TomoeMami 1_316: -1048229293
+      TomoeMami 1_187: -212040585
+      TomoeMami 1_70: 1611737350
+      TomoeMami 1_48: 1377020724
+      TomoeMami 1_22: -2138839195
+      TomoeMami 1_301: -598508818
+      TomoeMami 1_123: -21871107
+      TomoeMami 1_144: -1419174345
+      TomoeMami 1_235: -2079986529
+      TomoeMami 1_122: 1003620689
+      TomoeMami 1_21: 1684818717
+      TomoeMami 1_114: 1691544642
+      TomoeMami 1_170: 1782526422
+      TomoeMami 1_60: 266594300
+      TomoeMami 1_277: -2007157675
+      TomoeMami 1_194: -1583650407
+      TomoeMami 1_285: 2055788411
+      TomoeMami 1_143: -804219929
+      TomoeMami 1_218: -273570020
+      TomoeMami 1_265: 271673751
+      TomoeMami 1_119: 460242574
+      TomoeMami 1_300: -789735889
+      TomoeMami 1_319: 1216284481
+      TomoeMami 1_18: -228903189
+      TomoeMami 1_239: -2049046826
+      TomoeMami 1_203: -1783519253
+      TomoeMami 1_126: -491390743
+      TomoeMami 1_128: -454560876
+      TomoeMami 1_61: 1395240892
+      TomoeMami 1_1: 1862158523
+      TomoeMami 1_149: -268131459
+      TomoeMami 1_20: -1214664014
+      TomoeMami 1_216: 1758367266
+      TomoeMami 1_183: 756024718
+      TomoeMami 1_282: -1089138631
+      TomoeMami 1_214: 60168425
+      TomoeMami 1_329: -1067130341
+      TomoeMami 1_137: -1007550084
+      TomoeMami 1_315: -736027290
+      TomoeMami 1_312: 1764096050
+      TomoeMami 1_314: -502486889
+      TomoeMami 1_11: 1924621232
+      TomoeMami 1_129: -1299628552
+      TomoeMami 1_41: 57025101
+      TomoeMami 1_213: -1649631516
+      TomoeMami 1_336: -406661405
+      TomoeMami 1_287: 1202113613
+      TomoeMami 1_39: 375164697
+      TomoeMami 1_167: -2127814811
+      TomoeMami 1_251: -971453082
+      TomoeMami 1_201: 218150388
+      TomoeMami 1_146: 100766699
+      TomoeMami 1_306: -908689813
+      TomoeMami 1_134: -1225983453
+      TomoeMami 1_96: -1284856359
+      TomoeMami 1_180: -991750659
+      TomoeMami 1_16: -227453386
+      TomoeMami 1_328: 173093716
+      TomoeMami 1_162: 1568152165
+      TomoeMami 1_246: 897636826
+      TomoeMami 1_331: 1210609674
+      TomoeMami 1_320: 1611819084
+      TomoeMami 1_155: 35921631
+      TomoeMami 1_281: 1337972589
+      TomoeMami 1_35: -1857692555
+      TomoeMami 1_83: -156159828
+      TomoeMami 1_82: 103606152
+      TomoeMami 1_244: 928760224
+      TomoeMami 1_32: 1487535708
+      TomoeMami 1_140: -1706138076
+      TomoeMami 1_157: -247634477
+      TomoeMami 1_138: 703400975
+      TomoeMami 1_233: 1114882134
+      TomoeMami 1_176: -586308870
+      TomoeMami 1_58: -129665745
+      TomoeMami 1_298: 1244142903
+      TomoeMami 1_188: 74554584
+      TomoeMami 1_212: 713233828
+      TomoeMami 1_324: 138655414
+      TomoeMami 1_98: -81935929
+      TomoeMami 1_197: 698310346
+      TomoeMami 1_156: 1804318304
+      TomoeMami 1_118: 547972973
+      TomoeMami 1_139: -1594663003
+      TomoeMami 1_91: 993880197
+      TomoeMami 1_130: 1530996154
+      TomoeMami 1_160: 1975224488
+      TomoeMami 1_189: -635176283
+      TomoeMami 1_148: -2015246316
+      TomoeMami 1_45: 381690901
+      TomoeMami 1_311: 1181127035
+      TomoeMami 1_17: -395442256
+      TomoeMami 1_330: 671131732
+      TomoeMami 1_56: -1264570834
+      TomoeMami 1_343: 719878443
+      TomoeMami 1_302: -1968099768
+      TomoeMami 1_326: -152444790
+      TomoeMami 1_342: 1597287646
+      TomoeMami 1_207: 1460545910
+      TomoeMami 1_229: 835717431
+      TomoeMami 1_266: 453453563
+      TomoeMami 1_198: 1013003797
+      TomoeMami 1_30: -84050750
+      TomoeMami 1_46: -2112463307
+      TomoeMami 1_108: -1007844987
+      TomoeMami 1_33: -83370871
+      TomoeMami 1_334: 1407423223
+      TomoeMami 1_25: -1747765731
+      TomoeMami 1_110: -1243148940
+      TomoeMami 1_85: 1076810856
+      TomoeMami 1_211: 1017897400
+      TomoeMami 1_49: 464724750
+      TomoeMami 1_206: -1083265373
+      TomoeMami 1_9: 1569959426
+      TomoeMami 1_169: -1685350699
+      TomoeMami 1_284: 199174737
+      TomoeMami 1_253: -461251565
+      TomoeMami 1_276: 1049074782
+      TomoeMami 1_50: -95901756
+      TomoeMami 1_5: 1555164936
+      TomoeMami 1_101: 609042585
+      TomoeMami 1_289: 1102026655
+      TomoeMami 1_231: -1566100296
+      TomoeMami 1_92: 501442655
+      TomoeMami 1_53: 1064072048
+      TomoeMami 1_185: 2048668898
+      TomoeMami 1_150: -1835891296
+      TomoeMami 1_286: -1698342035
+      TomoeMami 1_290: -92259778
+      TomoeMami 1_208: 1720661603
+      TomoeMami 1_135: 402757169
+      TomoeMami 1_279: -1594489161
+      TomoeMami 1_88: 1975409934
+      TomoeMami 1_81: -321229316
+      TomoeMami 1_179: -1295554235
+      TomoeMami 1_19: -297840282
+      TomoeMami 1_280: -246584683
+      TomoeMami 1_2: 324928774
+      TomoeMami 1_64: -1874331011
+      TomoeMami 1_307: -638171030
+      TomoeMami 1_288: 1021555440
+      TomoeMami 1_191: 1748286762
+      TomoeMami 1_195: -51359394
+      TomoeMami 1_181: 310832492
+      TomoeMami 1_102: 1737960492
+      TomoeMami 1_345: -708684187
+      TomoeMami 1_190: -1414571038
+      TomoeMami 1_164: 1589153751
+      TomoeMami 1_40: 33508996
+      TomoeMami 1_193: -2056304919
+      TomoeMami 1_77: -755492608
+      TomoeMami 1_72: -1806678423
+      TomoeMami 1_37: 1253006744
+      TomoeMami 1_152: -572079467
+      TomoeMami 1_269: 1648661383
+      TomoeMami 1_27: 880570059
+      TomoeMami 1_75: -1887147334
+      TomoeMami 1_304: 1000262329
+      TomoeMami 1_159: 2133500245
+      TomoeMami 1_305: 2015624986
+      TomoeMami 1_283: 151806220
+      TomoeMami 1_174: -1983610008
+      TomoeMami 1_68: -1801155964
+      TomoeMami 1_186: 1798011526
+      TomoeMami 1_271: -1139843213
+      TomoeMami 1_29: 1302628666
+      TomoeMami 1_234: 1726073176
+      TomoeMami 1_158: -1439678114
+      TomoeMami 1_12: 1555557853
+      TomoeMami 1_217: 1998446155
+      TomoeMami 1_225: -276681575
+      TomoeMami 1_240: -615140813
+      TomoeMami 1_222: -1203412005
+      TomoeMami 1_124: -1702050265
+      TomoeMami 1_241: 1487305596
+      TomoeMami 1_205: -167030606
+      TomoeMami 1_259: -1120018795
+      TomoeMami 1_147: -1238548713
+      TomoeMami 1_62: 214172937
+      TomoeMami 1_24: -1701352673
+      TomoeMami 1_112: 846675862
+      TomoeMami 1_117: -1177945023
+      TomoeMami 1_220: -989619510
+      TomoeMami 1_95: -1358617367
+      TomoeMami 1_210: 1499910134
+      TomoeMami 1_4: 2056998193
+      TomoeMami 1_76: 651442636
+      TomoeMami 1_105: 101227495
+      TomoeMami 1_256: 1715371472
+      TomoeMami 1_322: 151573118
+      TomoeMami 1_52: -2093309568
+      TomoeMami 1_177: 1664523719
+      TomoeMami 1_67: -764134323
+      TomoeMami 1_313: 2143352160
+      TomoeMami 1_69: 1974090247
+      TomoeMami 1_168: 1992454048
+      TomoeMami 1_219: 390859653
+      TomoeMami 1_308: -1791384329
+      TomoeMami 1_65: -397192807
+      TomoeMami 1_161: -1916961402
+      TomoeMami 1_262: -1991034185
+      TomoeMami 1_333: 866888693
+      TomoeMami 1_171: 1766182574
+      TomoeMami 1_261: 659265827
+      TomoeMami 1_31: -1770398437
+      TomoeMami 1_36: -335042757
+      TomoeMami 1_151: -2147421445
+      TomoeMami 1_99: -1186499744
+      TomoeMami 1_87: 977731702
+      TomoeMami 1_178: -1738579463
+      TomoeMami 1_133: -637070316
+      TomoeMami 1_227: -1527738924
+      TomoeMami 1_80: 978088369
+      TomoeMami 1_172: -336615414
+      TomoeMami 1_97: -1699558954
+      TomoeMami 1_318: -213697560
+      TomoeMami 1_79: 1959843963
+      TomoeMami 1_165: 124642266
+      TomoeMami 1_250: 560551121
+      TomoeMami 1_78: 292529370
+      TomoeMami 1_237: -38987242
+      TomoeMami 1_238: -1023887156
+      TomoeMami 1_51: -1007266692
+      TomoeMami 1_341: 513334162
+      TomoeMami 1_14: -1618711926
+      TomoeMami 1_296: -1491678429
+      TomoeMami 1_335: 500125905
+      TomoeMami 1_291: 454837973
+      TomoeMami 1_252: -147715
+      TomoeMami 1_23: 1491379208
+      TomoeMami 1_337: -1939624430
+      TomoeMami 1_145: 1591618896
+      TomoeMami 1_73: 1224078038
+      TomoeMami 1_184: 1538326573
+      TomoeMami 1_272: 1173916251
+      TomoeMami 1_6: -1397351455
+      TomoeMami 1_115: -1921446654
+      TomoeMami 1_63: 323934032
+      TomoeMami 1_3: -1504246730
+      TomoeMami 1_293: 1364259123
+      TomoeMami 1_59: 770175802
+      TomoeMami 1_321: -830743621
+      TomoeMami 1_121: 1066788200
+      TomoeMami 1_132: -1344714741
+      TomoeMami 1_104: 1717892330
+      TomoeMami 1_34: 1656605999
+      TomoeMami 1_84: 1354900817
+      TomoeMami 1_26: 899268141
+      TomoeMami 1_43: 1490879069
+      TomoeMami 1_196: 1246455752
+      TomoeMami 1_309: -717100556
+      TomoeMami 1_0: 428925794
+      TomoeMami 1_325: -1411429234
+      TomoeMami 1_303: -1134557191
+      TomoeMami 1_125: 1176328878
+      TomoeMami 1_42: -2067403835
+      TomoeMami 1_74: -241266657
+      TomoeMami 1_338: 2045762543
+      TomoeMami 1_224: -167084120
+      TomoeMami 1_346: 1447680709
+      TomoeMami 1_131: -1810478287
+      TomoeMami 1_228: -1153346883
+      TomoeMami 1_7: -2067509115
+      TomoeMami 1_263: -496930837
+      TomoeMami 1_223: 1920910208
+      TomoeMami 1_54: -73845384
+      TomoeMami 1_267: -726379640
+      TomoeMami 1_93: 849407784
+      TomoeMami 1_254: -614372728
+      TomoeMami 1_166: -1747703453
+      TomoeMami 1_142: 1188327086
+      TomoeMami 1_278: 936317913
+      TomoeMami 1_55: 1725467116
+      TomoeMami 1_299: -1465985201
+      TomoeMami 1_275: -209855241
+      TomoeMami 1_294: 448859283
+      TomoeMami 1_258: 1635948078
+      TomoeMami 1_116: -913209554
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
