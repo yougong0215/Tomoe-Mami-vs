@@ -2,38 +2,40 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using System.Transactions;
 
 public class PlayerAttack : MonoBehaviour
 {
 
     public static bool shot = false;
+    public static bool attack = false;
     [SerializeField] Transform MoveGun;
     [SerializeField] Transform GunFlat;
     [SerializeField] Transform GunsShoot;
-    [SerializeField] int MaxGunHave;
-    [SerializeField] int _currentGunHave;
+    [SerializeField] int MaxGunHave = 24;
+    [SerializeField] int _currentGunHave = 0;
     [SerializeField] TextMeshProUGUI GunHave;
 
     Coroutine Cool;
-    Coroutine Flat;
+    Coroutine Attack;
     int _jumpPlatCount = 3;
 
     private void OnEnable()
     {
         Cool = StartCoroutine(Reload());
-        Flat = StartCoroutine(SummonFlat());
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetMouseButtonDown(0) && Mathf.Abs(GetComponent<PlayerMove>().MoveG) > 0.3f)
+        if(Input.GetMouseButtonDown(1))
         {
             if(MaxGunHave >= _currentGunHave && _currentGunHave != 0)
             {
 
                 PoolAble p = PoolManager.Instance.Pop(MoveGun.name);
-                p.transform.position = PlayerManager.Instance.Player.position + new Vector3(Random.Range(-0.3f, 0.3f), Random.Range(0.3f, 0.9f), 0);
+                p.transform.position = PlayerManager.Instance.Player.position + new Vector3(Random.Range(-0.9f, 0.9f), Random.Range(0.3f, 1.2f), 0);
                 _currentGunHave--;
 
                 if(Cool !=null)
@@ -48,11 +50,22 @@ public class PlayerAttack : MonoBehaviour
         {
             if (MaxGunHave >= _currentGunHave && _currentGunHave != 0)
             {
-                
+
                 StartCoroutine(SHoot());
             }
         }
-        if(MaxGunHave < _currentGunHave)
+
+
+        if (Input.GetMouseButtonDown(0) && attack == false)
+        {
+            if (Attack != null)
+            {
+                StopCoroutine(AttackWid());
+            }
+            Attack = StartCoroutine(AttackWid());
+        }
+
+        if (MaxGunHave < _currentGunHave)
         {
             _currentGunHave = MaxGunHave;
         }
@@ -70,6 +83,26 @@ public class PlayerAttack : MonoBehaviour
         GunHave.text = $"[ {_currentGunHave} / {MaxGunHave} ] ";
         //Debug.Log($"[ {_currentGunHave} / {MaxGunHave} ] ");
     }
+
+    IEnumerator AttackWid()
+    {
+        attack = true;
+
+        PlayerManager.Instance.Ani.SetBool("Attacking", true);
+
+        if (PlayerManager.Instance.Ani.GetInteger("Attack") >= 2)
+        {
+            PlayerManager.Instance.Ani.SetInteger("Attack", 0);
+        }
+
+        yield return null;
+        PlayerManager.Instance.Ani.SetInteger("Attack", 1 + PlayerManager.Instance.Ani.GetInteger("Attack"));
+        yield return new WaitForSeconds(0.4f);
+        PlayerManager.Instance.Ani.SetBool("Attacking", false);
+        yield return null;
+        attack = false;
+    }
+
 
     IEnumerator SHoot()
     {
@@ -140,5 +173,10 @@ public class PlayerAttack : MonoBehaviour
                 _jumpPlatCount++;
 
         }
+    }
+
+    public int CurrentGuns()
+    {
+        return _currentGunHave;
     }
 }

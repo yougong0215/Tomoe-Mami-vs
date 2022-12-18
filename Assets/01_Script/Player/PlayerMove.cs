@@ -29,13 +29,13 @@ public class PlayerMove : MonoBehaviour
 
         //VelocityBind();
 
-        if(PlayerAttack.shot == true)
+        if(PlayerAttack.shot == true || PlayerAttack.attack == true)
         {
             _moveGround = 0;
             _rigid.velocity = new Vector3(0, -0.025f, 0);
             return;
         }
-
+        
         Jump();
         Doged();
         DoingDoged();
@@ -94,24 +94,24 @@ public class PlayerMove : MonoBehaviour
         {
             if (_moveGround >= -0.1f && _moveGround <= 0.1f)
             {
-                if (PlayerManager.Instance.Spi.flipX) // <<
+                if (transform.localScale == new Vector3(1, 1, 1)) // <<
                 {
-                    transform.position += new Vector3(0.0004f, 0, 0);
+                    transform.position += new Vector3(-0.0004f, 0, 0);
                 }
                 else // >>
                 {
-                    transform.position += new Vector3(-0.004f, 0, 0);
+                    transform.position += new Vector3(0.004f, 0, 0);
                 }
             }
             else
             {
-                if (PlayerManager.Instance.Spi.flipX) // <<
+                if (transform.localScale == new Vector3(1, 1, 1)) // <<
                 {
-                    transform.position += new Vector3(-0.03f, 0, 0);
+                    transform.position += new Vector3(0.03f, 0, 0);
                 }
                 else // >>
                 {
-                    transform.position += new Vector3(0.03f, 0, 0);
+                    transform.position += new Vector3(-0.03f, 0, 0);
                 }
             }
         }
@@ -156,12 +156,12 @@ public class PlayerMove : MonoBehaviour
 
         if (_moveGround <= -0.1f)
         {
-            PlayerManager.Instance.Spi.flipX = true;
+            transform.localScale = new Vector3(-1, 1, 1);
             PlayerManager.Instance.Ani.SetBool("Move", true);
         }
         else if (_moveGround >= 0.1f)
         {
-            PlayerManager.Instance.Spi.flipX = false;
+            transform.localScale = new Vector3(1, 1, 1);
             PlayerManager.Instance.Ani.SetBool("Move", true);
         }
     }
