@@ -45,7 +45,7 @@ public class AIBossMiddleAttack : MonoBehaviour
         }
 
         AI.main.Ani.SetTrigger("SPAttack");
-
+        AI.main.Audio.PlayOneShot(AI.main.cllip);
         StartCoroutine(End());
     }
     void OnDrawGizmos()

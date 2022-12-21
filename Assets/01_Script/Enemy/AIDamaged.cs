@@ -15,14 +15,15 @@ public class AIDamaged : MonoBehaviour
 
     public void AIDamagedEvent()
     {
-        if(Random.Range(0f,10f) > 8)
-        {
-            StartCoroutine(Woing());
-        }
-        else
-        {
-            StartCoroutine(Doing());
-        }
+            if (Random.Range(0f, 10f) > 8)
+            {
+                StartCoroutine(Woing());
+            }
+            else
+            {
+                StartCoroutine(Doing());
+            }
+        
 
     }
 
@@ -30,7 +31,6 @@ public class AIDamaged : MonoBehaviour
     {
         AI.main._info.Barrier--;
         AI.main.bDamaged = false;
-        AI.Doing = true;
 
         vec = (PlayerManager.Instance.PlayerS.position - transform.position).normalized;
         vec.y = 0;
@@ -40,6 +40,12 @@ public class AIDamaged : MonoBehaviour
         AI.main.Damage = 0;
         AI.main._rigid.AddForce(vec * 4, ForceMode.Impulse);
         AI.main.Ani.SetTrigger("Hurt");
+
+
+        TextDamage tx = PoolManager.Instance.Pop("TextDamage") as TextDamage;
+
+        tx.transform.position = AI.main.transform.position + new Vector3(0,0,-1);
+        tx.Seting("Miss");
 
 
         if ((PlayerManager.Instance.Player.position - transform.position).normalized.x < 0)
@@ -55,20 +61,26 @@ public class AIDamaged : MonoBehaviour
         }
 
 
-        yield return new WaitForSeconds(0.4f);
-
-        AI.Doing = false;
+        yield return null;
     }
 
     IEnumerator Doing()
     {
-        AI.main._info.HP += AI.main.Damage;
-        AI.main.Damage = 0;
-        yield return new WaitForSeconds(0.1f);
-        Debug.Log($"데미지 받기 : {AI.main.Damage}");
 
-        
-        AI.main.bDamaged = false;
+        AI.main._info.HP += AI.main.Damage;
+        if(AI.main.Damage < 0)
+        {
+            TextDamage tx = PoolManager.Instance.Pop("TextDamage") as TextDamage;
+            tx.transform.position = transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(0.6f, 1.4f), -1);
+            tx.Seting($"{-AI.main.Damage}");
+        }
+            AI.main.bDamaged = false;
+            AI.main.Damage = 0;
+        CameraManager.Instance.Noise(0.7f);
+
+        yield return new WaitForSeconds(0.02f);
+
+
     }
 
 }

@@ -16,26 +16,49 @@ public class PlayerStat : MonoBehaviour
     {
         hpbar.fillAmount = HP / 10000f;
     }
+    TextDamage tx;
 
     public void Damaged(int Damaged)
     {
         if (GetComponent<PlayerMove>().DoDoged == false)
+        {
+            tx = PoolManager.Instance.Pop("TextDamage") as TextDamage;
+
+            tx.transform.position = transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(0.6f, 1.4f), -1);
+            tx.Seting("Doged");
             return;
-        if (Input.GetKey(KeyCode.F) && GetComponent<PlayerAttack>().CurrentGuns > Damaged / 200 && Barrier == false)
+        }
+        else if (Input.GetKey(KeyCode.F) && GetComponent<PlayerAttack>().CurrentGuns > Damaged / 200 && Barrier == false)
         {
             GetComponent<PlayerAttack>().CurrentGuns = GetComponent<PlayerAttack>().CurrentGuns - Damaged / 200;
             StartCoroutine(BarrierCo());
             Barrier = true;
-            Debug.Log("방어 성공 이펙트");
+
+            tx = PoolManager.Instance.Pop("TextDamage") as TextDamage;
+
+            tx.transform.position = transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(0.6f, 1.4f), -1);
+            tx.Seting("Guard");
 
             return;
         }
         else
         {
-            Barrier = false;
-
+            StartCoroutine(T(Damaged));
         }
+    }
 
+    IEnumerator T(float Damaged)
+    {
+        Barrier = false;
+
+        tx = PoolManager.Instance.Pop("TextDamage") as TextDamage;
+
+        tx.transform.position = transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(0.6f, 1.4f), -1);
+        tx.Seting($"{Damaged}");
+        Time.timeScale = 0.1f;
+        CameraManager.Instance.Noise(1f);
+        yield return new WaitForSeconds(0.01f);
+        Time.timeScale = 1;
         HP -= Damaged;
     }
 

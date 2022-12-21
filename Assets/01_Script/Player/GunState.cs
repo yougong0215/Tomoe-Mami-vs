@@ -11,9 +11,14 @@ public class GunState : PoolAble
     bool rot = false;
     Vector3 mouse;
     SpriteRenderer _spi;
+
+    [SerializeField] AudioClip a;
+    [SerializeField] AudioSource source;
+
     private void Awake()
     {
         _spi = GetComponent<SpriteRenderer>();
+        source = GetComponent<AudioSource>();
     }
     private void OnEnable()
     {
@@ -60,7 +65,7 @@ public class GunState : PoolAble
         p.transform.rotation = transform.rotation;
         p.transform.position = transform.position;
         CameraManager.Instance.Noise(0.2f);
-
+        source.PlayOneShot(a);
         yield return new WaitForSeconds(0.1f);
         CameraManager.Instance.Noise(0.4f);
         PoolManager.Instance.Push(this);

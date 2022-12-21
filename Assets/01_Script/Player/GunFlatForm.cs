@@ -5,6 +5,8 @@ using UnityEngine;
 public class GunFlatForm : PoolAble
 {
     [SerializeField] Transform pos;
+    [SerializeField] AudioClip a;
+    [SerializeField] AudioSource source;
 
     float angle = 90;
     float _time = 1f;
@@ -14,6 +16,7 @@ public class GunFlatForm : PoolAble
     private void Awake()
     {
         _spi = GetComponent<SpriteRenderer>();
+        source = GetComponent<AudioSource>();
     }
     private void OnEnable()
     {
@@ -67,6 +70,8 @@ public class GunFlatForm : PoolAble
         p.transform.rotation = transform.rotation;
         p.transform.position = transform.position;
         CameraManager.Instance.Noise(0.2f);
+        source.PlayOneShot(a);
+
 
         yield return new WaitForSeconds(0.1f);
         CameraManager.Instance.Noise();

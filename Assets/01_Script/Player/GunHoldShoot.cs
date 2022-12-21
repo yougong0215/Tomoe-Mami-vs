@@ -9,6 +9,9 @@ public class GunHoldShoot : PoolAble
 
     [SerializeField] Transform pos;
 
+    [SerializeField] AudioClip a;
+    [SerializeField] AudioSource source;
+
     float angle = 90;
     float _time = 1;
     bool rot = false;
@@ -17,6 +20,7 @@ public class GunHoldShoot : PoolAble
     private void Awake()
     {
         _spi = GetComponent<SpriteRenderer>();
+        source = GetComponent<AudioSource>();
     }
     private void OnEnable()
     {
@@ -67,6 +71,7 @@ public class GunHoldShoot : PoolAble
         PlayerBullet p = PoolManager.Instance.Pop("PlayerBullet") as PlayerBullet;
         p.transform.rotation = transform.rotation;
         p.transform.position = transform.position;
+        source.PlayOneShot(a);
 
         yield return new WaitForSeconds(0.8f);
         shoot = false;

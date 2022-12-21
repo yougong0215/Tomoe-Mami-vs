@@ -29,6 +29,9 @@ public class AIMain : MonoBehaviour
     [Header("Ã¼·Â¹Ù")]
     [SerializeField] public Image _hpBar = null;
 
+    [SerializeField] public AudioSource Audio;
+    [SerializeField] public AudioClip cllip;
+
      public bool CanJump;
      public float Damage = 0;
     public bool Died = false;
@@ -37,6 +40,7 @@ public class AIMain : MonoBehaviour
     {
         Ani = GetComponent<Animator>();
         _rigid = GetComponent<Rigidbody>();
+        Audio = GetComponent<AudioSource>();
     }
 
     public bool bDamaged 

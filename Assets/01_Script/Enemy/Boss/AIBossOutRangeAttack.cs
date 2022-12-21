@@ -22,11 +22,11 @@ public class AIBossOutRangeAttack : MonoBehaviour
 
         if(Order <= Slash)
         {
-            StartCoroutine(SlashCo("Slash", 0.8f, 3));
+            StartCoroutine(SlashCo("Slash", 0.1f, Random.Range(3, 7)));
         }
         else if(Slash <= Order)
         {
-            StartCoroutine(SlashCo("Slash", 0.6f, 3));
+            StartCoroutine(SlashCo("Slash", 0.1f, Random.Range(3,9)));
         }
 
     }
@@ -43,12 +43,14 @@ public class AIBossOutRangeAttack : MonoBehaviour
             Slash = 50;
             Debug.Log("Skill");
         }
+        AI.main.Audio.PlayOneShot(AI.main.cllip);
 
         yield return new WaitForSeconds(sec);
 
-        if(again > 1)
+        if (again > 1)
         {
-            StartCoroutine(SlashCo("Slash", 0.6f, --again));
+           
+            StartCoroutine(SlashCo("Slash", Random.Range(0.1f, 0.5f), --again));
         }
         else
         {

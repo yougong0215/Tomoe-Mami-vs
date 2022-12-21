@@ -20,6 +20,9 @@ public class PlayerAttack : MonoBehaviour
 
     [SerializeField] LayerMask layer;
     [SerializeField] Image CoolTimeGuns;
+    [SerializeField] Collider[] hit;
+    [SerializeField] AudioSource audios;
+    [SerializeField] AudioClip a;
 
     Coroutine Cool;
     Coroutine Attack;
@@ -108,18 +111,27 @@ public class PlayerAttack : MonoBehaviour
         {
             PlayerManager.Instance.Ani.SetInteger("Attack", 0);
         }
-        Collider[] hit;
-        if (PlayerManager.Instance.Spi.flipX == true)
+        if (transform.localScale.x < 0)
         {
-            hit = Physics.OverlapBox(transform.position + new Vector3(0.4f,0,0), new Vector3(0.4f, 0.4f, 0.4f), Quaternion.identity, layer);
+            hit = Physics.OverlapBox(transform.position + new Vector3(-1.2f,1.4f,0), new Vector3(1f, 1f, 1f), Quaternion.identity, layer);
         }
         else
         {
-            hit = Physics.OverlapBox(transform.position + new Vector3(-0.4f, 0, 0), new Vector3(0.4f, 0.4f, 0.4f), Quaternion.identity, layer);
+            hit = Physics.OverlapBox(transform.position + new Vector3(1.2f, 1.4f, 0), new Vector3(1f, 1f, 1f), Quaternion.identity, layer);
         }
+        audios.PlayOneShot(a);
+
         if(hit.Length > 0)
         {
-            hit[0].GetComponent<AIMain>().Damaged(Random.Range(200, 501));
+            if (hit[0].GetComponent<AIMain>())
+                hit[0].GetComponent<AIMain>().Damaged(Random.Range(200, 501));
+            else if (hit[0].GetComponent<EnemyWing>())
+            {
+                hit[0].GetComponent<EnemyWing>().Push();
+                TextDamage tx = PoolManager.Instance.Pop("TextDamage") as TextDamage;
+                tx.transform.position = transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(0.6f, 1.4f), -1);
+                tx.Seting($"Slash");
+            }
         }
         
 

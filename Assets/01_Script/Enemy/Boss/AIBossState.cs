@@ -26,7 +26,7 @@ public class AIBossState : AIState
         Debug.Log($"BT : {Doing}");
         if (Doing == false && wait == false && main.Died  == false)
         {
-            a = 3;
+            a = 3.6f;
 
             if (OutRangedAttack != null && Cool1 < 0)
             {

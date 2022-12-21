@@ -6,6 +6,8 @@ public class EnemyWing : PoolAble
 {
     float speed = 10;
     int dir;
+
+    int t = 3;
     public void SetState(float f, float speed = 10f)
     {
         this.speed = speed;
@@ -28,6 +30,14 @@ public class EnemyWing : PoolAble
         transform.localScale = new Vector3(1, this.dir, 1);
     }
 
+    public void Push()
+    {
+        PoolManager.Instance.Push(this);
+    }
+    private void OnEnable()
+    {
+        t = 3;
+    }
 
     private void Update()
     {
@@ -39,6 +49,17 @@ public class EnemyWing : PoolAble
         if(other.CompareTag("Player"))
         {
             other.GetComponent<PlayerStat>().Damaged(Random.Range(400,601));
+            StartCoroutine(Co());
         }
+    }
+
+    IEnumerator Co()
+    {
+        PlayerManager.Instance.CanControl = false;
+        PlayerManager.Instance.Player.GetComponent<Rigidbody>().velocity = Vector3.zero;
+        yield return new WaitForSeconds(0.2f);
+        PlayerManager.Instance.CanControl = true;
+        yield return new WaitForSeconds(10f);
+        PoolManager.Instance.Push(this);
     }
 }

@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HP: 10000
   Attack: 5
-  Barrier: 5
+  Barrier: -57
   speed: 2
   JumpPower: 5
   pase: 1
   skills:
   - skill1: "\uC6D0\uAC70\uB9AC"
-    CoolTime: 5
+    CoolTime: 7
   - skill1: "\uB3CC\uC9C4"
-    CoolTime: 12
+    CoolTime: 11
   - skill1: "\uC77C\uBC18"
-    CoolTime: 3
+    CoolTime: 2
   - skill1: "\uBC29\uC5B4"
     CoolTime: 2

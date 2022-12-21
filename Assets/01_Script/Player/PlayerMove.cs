@@ -37,7 +37,14 @@ public class PlayerMove : MonoBehaviour
         }
         if(PlayerManager.Instance.CanControl == false)
         {
+            PlayerManager.Instance.Ani.SetBool("Hurt", true);
+
             return;
+        }
+        else
+        {
+            PlayerManager.Instance.Ani.SetBool("Hurt", false);
+
         }
         
         Jump();
