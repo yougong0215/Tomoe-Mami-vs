@@ -37,6 +37,7 @@ public class GunHoldShoot : PoolAble
 
     IEnumerator EnemyLookOn()
     {
+        transform.position = new Vector3(transform.position.x, transform.position.y, 0);
         mouse = Input.mousePosition;
         mouse.z = GameManager.Instance.Cam.farClipPlane;
         //transform.position = Camera.main.ScreenToWorldPoint(mouse);
@@ -63,6 +64,9 @@ public class GunHoldShoot : PoolAble
         transform.position += (transform.position - hit.point).normalized;
 
         CameraManager.Instance.Noise(1);
+        PlayerBullet p = PoolManager.Instance.Pop("PlayerBullet") as PlayerBullet;
+        p.transform.rotation = transform.rotation;
+        p.transform.position = transform.position;
 
         yield return new WaitForSeconds(0.8f);
         shoot = false;

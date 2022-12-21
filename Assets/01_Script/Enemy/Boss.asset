@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab4c829f00fe1041b0ee90476f4b468, type: 3}
+  m_Name: Boss
+  m_EditorClassIdentifier: 
+  HP: 10000
+  Attack: 5
+  Barrier: 5
+  speed: 2
+  JumpPower: 5
+  pase: 1
+  skills:
+  - skill1: "\uC6D0\uAC70\uB9AC"
+    CoolTime: 5
+  - skill1: "\uB3CC\uC9C4"
+    CoolTime: 12
+  - skill1: "\uC77C\uBC18"
+    CoolTime: 3
+  - skill1: "\uBC29\uC5B4"
+    CoolTime: 2

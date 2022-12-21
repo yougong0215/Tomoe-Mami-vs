@@ -7,6 +7,8 @@ TagManager:
   - Sprite
   - Plat
   - Pool
+  - PlayerAttack
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -14,10 +16,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Player
+  - PlayerAttacked
+  - PL
   - 
   - 
   - 

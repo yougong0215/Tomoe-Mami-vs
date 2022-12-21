@@ -34,7 +34,7 @@ public class GunFlatForm : PoolAble
     IEnumerator EnemyLookOn()
     {
         GetComponent<BoxCollider>().isTrigger = false;
-
+        transform.position = new Vector3(transform.position.x, transform.position.y, 0);
 
         yield return new WaitForSeconds(1);
         _time = 1;
@@ -63,8 +63,10 @@ public class GunFlatForm : PoolAble
 
         yield return new WaitUntil(() => transform.rotation == Quaternion.AngleAxis(angle - 270, Vector3.forward) || _time < 0);
         //Debug.Log("ÅÁ");
-
-        
+        PlayerBullet p = PoolManager.Instance.Pop("PlayerBullet") as PlayerBullet;
+        p.transform.rotation = transform.rotation;
+        p.transform.position = transform.position;
+        CameraManager.Instance.Noise(0.2f);
 
         yield return new WaitForSeconds(0.1f);
         CameraManager.Instance.Noise();

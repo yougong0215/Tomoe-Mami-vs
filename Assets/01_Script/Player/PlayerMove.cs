@@ -9,7 +9,7 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] float _moveGround = 0;
     Rigidbody _rigid;
     bool canDoged = true;
-    bool DoDoged = true;
+    public bool DoDoged = true;
     bool OnGround = true;
     
     public float MoveG
@@ -24,15 +24,19 @@ public class PlayerMove : MonoBehaviour
 
     private void Update()
     {
+        transform.position = new Vector3(transform.position.x, transform.position.y, Mathf.Clamp(transform.position.z, 0, 0));
 
 
+        VelocityBind();
 
-        //VelocityBind();
-
-        if(PlayerAttack.shot == true || PlayerAttack.attack == true)
+        if( PlayerAttack.attack == true || PlayerStat.Barrier == true)
         {
             _moveGround = 0;
             _rigid.velocity = new Vector3(0, -0.025f, 0);
+            return;
+        }
+        if(PlayerManager.Instance.CanControl == false)
+        {
             return;
         }
         
@@ -72,16 +76,16 @@ public class PlayerMove : MonoBehaviour
 
     private void VelocityBind()
     {
-        if(_rigid.velocity.x > 3.5f)
+        if(_rigid.velocity.x > 6f)
         {
-            _rigid.velocity += new Vector3(-300f, 0, 0) * Time.deltaTime;
+            _rigid.velocity += new Vector3(-30f, 0, 0) * Time.deltaTime;
         }
-        else if (_rigid.velocity.x < -3.5f)
+        else if (_rigid.velocity.x < -6)
         {
-            _rigid.velocity += new Vector3(300f, 0, 0) * Time.deltaTime;
+            _rigid.velocity += new Vector3(30f, 0, 0) * Time.deltaTime;
         }
 
-        if(_rigid.velocity.y < -6)
+        if(_rigid.velocity.y < -6 && PlayerManager.Instance.CanControl == false)
         {
             _rigid.velocity = new Vector3(_rigid.velocity.x, -6);
         }
@@ -96,22 +100,22 @@ public class PlayerMove : MonoBehaviour
             {
                 if (transform.localScale == new Vector3(1, 1, 1)) // <<
                 {
-                    transform.position += new Vector3(-0.0004f, 0, 0);
+                    _rigid.velocity += new Vector3(-0.1f, 0, 0);
                 }
                 else // >>
                 {
-                    transform.position += new Vector3(0.004f, 0, 0);
+                    _rigid.velocity += new Vector3(0.1f, 0, 0);
                 }
             }
             else
             {
                 if (transform.localScale == new Vector3(1, 1, 1)) // <<
                 {
-                    transform.position += new Vector3(0.03f, 0, 0);
+                    _rigid.velocity += new Vector3(0.4f, 0, 0);
                 }
                 else // >>
                 {
-                    transform.position += new Vector3(-0.03f, 0, 0);
+                    _rigid.velocity += new Vector3(-0.4f, 0, 0);
                 }
             }
         }
@@ -146,7 +150,7 @@ public class PlayerMove : MonoBehaviour
         if(DoDoged == true)
         {
             _moveGround = Input.GetAxis("Horizontal");
-            transform.position += new Vector3(_moveGround * 3, 0,0) * Time.deltaTime;
+            _rigid.velocity = new Vector2(_moveGround * 3, _rigid.velocity.y);
         }
     }
 
@@ -166,10 +170,13 @@ public class PlayerMove : MonoBehaviour
         }
     }
 
+   
+
     private void OnCollisionEnter(Collision collision)
     {
         if(collision.gameObject.CompareTag("Plat"))
         {
+            PlayerManager.Instance.CanControl = true;
             OnGround = true;
             PlayerManager.Instance.Ani.SetBool("JumpEnd", true);
             PlayerManager.Instance.Ani.SetBool("Fall", false);

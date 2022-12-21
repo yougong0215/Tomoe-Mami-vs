@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4962087502271313760}
   - component: {fileID: 2705217651594583627}
   - component: {fileID: 2944535986438500136}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: MamiFlat
   m_TagString: Plat
   m_Icon: {fileID: 0}

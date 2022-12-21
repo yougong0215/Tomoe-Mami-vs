@@ -33,6 +33,7 @@ public class GunState : PoolAble
 
     IEnumerator EnemyLookOn()
     {
+        transform.position = new Vector3(transform.position.x, transform.position.y, 0);
         mouse = Input.mousePosition;
         mouse.z = GameManager.Instance.Cam.farClipPlane;
         //transform.position = Camera.main.ScreenToWorldPoint(mouse);
@@ -55,7 +56,10 @@ public class GunState : PoolAble
 
         yield return new WaitUntil(()=> transform.rotation == Quaternion.AngleAxis(angle - 270, Vector3.forward) || _time < 0);
         //Debug.Log("ÅÁ");
-
+        PlayerBullet p = PoolManager.Instance.Pop("PlayerBullet") as PlayerBullet;
+        p.transform.rotation = transform.rotation;
+        p.transform.position = transform.position;
+        CameraManager.Instance.Noise(0.2f);
 
         yield return new WaitForSeconds(0.1f);
         CameraManager.Instance.Noise(0.4f);

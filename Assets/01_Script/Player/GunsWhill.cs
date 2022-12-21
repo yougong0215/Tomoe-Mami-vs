@@ -45,7 +45,7 @@ public class GunsWhill : MonoBehaviour
             if (barrier == true)
             {
                 guns[i].localEulerAngles = new Vector3(guns[i].localEulerAngles.x, guns[i].localEulerAngles.y, 0);
-                guns[i].position = PlayerManager.Instance.Player.position - _gunsTransform[i] * 0.4f;
+                guns[i].position = PlayerManager.Instance.PlayerS.position - _gunsTransform[i] * 0.4f;
                 guns[i].GetComponentInChildren<SpriteRenderer>().color = new Vector4(1, 1, 1, 1);
                 
             }    
@@ -56,7 +56,7 @@ public class GunsWhill : MonoBehaviour
                 guns[i].GetComponentInChildren<SpriteRenderer>().color = new Vector4(1, 1, 1, 0.4f);
             }
 
-            if(guns.Count-i > PlayerManager.Instance.PAT.CurrentGuns())
+            if(guns.Count-i > PlayerManager.Instance.PAT.CurrentGuns)
             {
                 guns[i].gameObject.SetActive(false);
             }
